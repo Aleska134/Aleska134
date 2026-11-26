@@ -2,6 +2,8 @@
 
 **Software developer building AI products, and testing whether they can be trusted.**
 
+📌 Open to part-time software development and AI roles, or internships.
+
 Computer Science student at Miami Dade College (GPA 4.0, Phi Theta Kappa) in Miami, FL. I work in English and Spanish.
 
 🌐 **Portfolio:** [aleskapbraschi.me](https://www.aleskapbraschi.me) · in a hurry? [the 60-second version](https://www.aleskapbraschi.me/en/quick)
